@@ -37,7 +37,7 @@ The challenge, then, is designing LLM evaluation metrics that compute both relia
 
 There are different types of scorers that were developed by the NLP community over the years to evaluate LLM outputs. Some are borrowed from a classical NLP world and rely purely on statistical analysis and some are novel and use trasformers and LLM-as-a-judge techniques.
 
-<img src="./img/metricsvenn.png" alt="Types of Metric scorers" width="600"/>
+<img src="./img/venn.png" alt="Types of Metric scorers" width="600"/>
 
 
 
